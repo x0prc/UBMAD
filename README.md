@@ -1,11 +1,11 @@
 # UBMAD
-## User Behavior Modeling and Anomaly Detection
+## 🕷️ User Behavior Modeling and Anomaly Detection
 
 This repository is based on my understanding and implementation of the algorithms published in Paper : 
 
 `Kim, Junhong, Minsik Park, Haedong Kim, Suhyoun Cho, and Pilsung Kang. 2019. "Insider Threat Detection Based on User Behavior Modeling and Anomaly Detection Algorithms" Applied Sciences 9, no. 19: 4018. https://doi.org/10.3390/app9194018`
 
-## Background
+## 🔨 Background
 <details>
 <summary>Abstract from the Paper</summary>
 Insider threats are malicious activities by authorized users, such as theft of intellectual property or security information, fraud, and sabotage. Although the number of insider threats is much
@@ -22,7 +22,7 @@ where no domain experts’ knowledge is provided.
 </details>
 
 
-## Problem Statement
+## ❓ Problem Statement
 <details>
 <summary>Section 1 : Introduction</summary>
 From a modeling perspective, it is virtually impossible to train a binary classification algorithm when only a few abnormal examples
@@ -32,7 +32,7 @@ these shortcomings, the paper has proposed an insider-threat detection framework
 and one-class classification.
 </details>
 
-## Dataset
+## 💽 Dataset
 <details>
 <summary>CERT Dataset</summary>
 Because it is very difficult to obtain actual corporate system logs, authors used the “CERT Insider
