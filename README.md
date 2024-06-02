@@ -48,3 +48,21 @@ depending on the dataset version. Authors conducted this study using R6.2, which
 largest dataset. In this version, the dataset includes 4000 users, among whom only five users behaved
 maliciously.
 </details>
+
+## 💡 Solution Statement
+<details>
+<summary>Three Mainstream Strategies</summary>
+<p>The first strategy is to develop a rule-based detection system. A pool of experts generates a set of rules to identify insiders’ malicious activities. Then, each user’s behavior is recorded as a log and is tested to determine whether it meets any of the pre-designed rules.</p>
+
+<p>The second strategy is to build a network graph to identify suspicious users or malicious behaviors by monitoring the changes of the graph structure. Graph-based insider threat identification
+does not only analyze the value of the data itself but also analyzes the relationships among the data.</p>
+
+<p>The third strategy is to build a statistical or machine learning model based on previous data to predict potential malicious behavior. Insider threat detection using machine learning aims at developing a method to automatically identify users who perform unusual activities among all users without prior knowledge or rules.</p>
+
+<!--
+## 🖼️ Benchmark Model
+## 📈 Evaluation Metrics
+## 🎨 Project Design
+## 🔍 References
+-->
+</details>
