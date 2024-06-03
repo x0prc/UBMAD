@@ -47,6 +47,8 @@ number of variables, number of employees, and number of malicious insider activi
 depending on the dataset version. Authors conducted this study using R6.2, which is the latest and
 largest dataset. In this version, the dataset includes 4000 users, among whom only five users behaved
 maliciously.
+
+  `Lindauer, Brian (2020). Insider Threat Test Dataset. Carnegie Mellon University. Dataset. https://doi.org/10.1184/R1/12841247.v1`
 </details>
 
 ## 💡 Solution Statement
@@ -58,11 +60,16 @@ maliciously.
 does not only analyze the value of the data itself but also analyzes the relationships among the data.</p>
 
 <p>The third strategy is to build a statistical or machine learning model based on previous data to predict potential malicious behavior. Insider threat detection using machine learning aims at developing a method to automatically identify users who perform unusual activities among all users without prior knowledge or rules.</p>
+</details>
 
+
+## 🎨 Project Design
+<details>
+<summary>Flowchart and Pathway</summary>
+  
 <!--
 ## 🖼️ Benchmark Model
 ## 📈 Evaluation Metrics
-## 🎨 Project Design
 ## 🔍 References
 -->
 </details>
