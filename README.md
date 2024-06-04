@@ -64,7 +64,4 @@ does not only analyze the value of the data itself but also analyzes the relatio
 
 
 ## 🎨 Project Design
-<details>
-<summary>Flowchart and Pathway</summary>
 ![FLOWCHART drawio](https://github.com/x0prc/UBMAD/assets/105520102/64aeb788-9f2a-461a-8499-a6fdcf1e90bc)
-</details>
